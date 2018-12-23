@@ -3,6 +3,10 @@
 ### 2018-11-22
 更新 4.x 版本配置信息
 
+ubuntu/debian 系统安装 Curl 方法: apt-get update -y && apt-get install curl -y
+centos 系统安装 Curl 方法: yum update -y && yum install curl -y
+安装好 curl 之后就能安装脚本了
+
 ### 2018-12-10
 修复证书无法正常自动更新的bug
 
